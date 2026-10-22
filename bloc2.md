@@ -8,7 +8,9 @@ Captura 9:
 ![alt text](image9.png)
 Acció 3.8: Ens desplaçem a la branca feature-sanctuary
 Captura 10:
-![alt text](image9.png)
-Captura 11: fem un commit
 ![alt text](image10.png)
+Captura 11: fem un commit
+![alt text](image11.png)
 Acció 3.9: Tornem a la branca principal (main)
+Captura 12:
+![alt text](image12.png)
