@@ -37,3 +37,8 @@ Captura 27:
 ![alt text](img/image-27.png)
 Captura 28:
 ![alt text](img/image-28.png)
+Captura 29: Guardem les ultimes fotos que hem afegit
+![alt text](img/image-29.png)
+Acció 3.15: Creem un repositori public a GitHub anomenat "halloween-git-rescue"
+Captura 30:
+![alt text](img/image-30.png)
