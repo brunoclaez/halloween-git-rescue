@@ -4,3 +4,6 @@ Captura 7: (branca 1)
 Captura 8: (branca 2)
 ![alt text](image8.png)
 Acció 3.7: Ens desplaçem a la branca feature-nightmare
+Captura 9:
+![alt text](image9.png)
+Acció 3.8: Ens desplaçem a la branca feature-sanctuary
