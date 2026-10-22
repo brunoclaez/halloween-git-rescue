@@ -9,8 +9,11 @@ Captura 9:
 Acció 3.8: Ens desplaçem a la branca feature-sanctuary
 Captura 10:
 ![alt text](image10.png)
-Captura 11: fem un commit
-![alt text](image11.png)
+Captura ?: fem un commit
+![alt text](image?.png)
 Acció 3.9: Tornem a la branca principal (main) i fem un merge amb les dues altres branques
-Captura 12:
+Captura 11:
+![alt text](image11.png)
+Captura 12: fem git merge des de main amb la branca "feature-nightmare"
 ![alt text](image12.png)
+Captura 13: intentem fer merge amb l'altre branca "feature-sanctuary"
