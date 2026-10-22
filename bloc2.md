@@ -7,3 +7,7 @@ Acció 3.7: Ens desplaçem a la branca feature-nightmare
 Captura 9:
 ![alt text](image9.png)
 Acció 3.8: Ens desplaçem a la branca feature-sanctuary
+Captura 10:
+![alt text](image9.png)
+Captura 11: fem un commit
+![alt text](image10.png)
