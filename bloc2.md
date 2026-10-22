@@ -17,3 +17,10 @@ Captura 11:
 Captura 12: fem git merge des de main amb la branca "feature-nightmare"
 ![alt text](image12.png)
 Captura 13: intentem fer merge amb l'altre branca "feature-sanctuary"
+![alt text](img/image13.png)
+Acció 3.10: Contemplem el conflicte que ha sorgit de fer merge amb la segon branca
+Captura 14;
+![alt text](img/image-13.png)
+![alt text](img/image-14.png)
+Captura 15: Commit de fusió
+![alt text](img/image-15.png)
