@@ -13,3 +13,4 @@ Captura 4:
 ![alt text](image4.png)
 Modificació 2: Importem el Scanner
 Captura 5:
+![alt text](image5.png)
