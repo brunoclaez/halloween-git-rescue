@@ -29,7 +29,7 @@ Captura 4:
 ![alt text](image4.png)
 Modificació 2: Importem el Scanner
 ![alt text](img/image-4.png)
-Acció 3.5:
+Acció 3.5: Mostre per pantalla tot l'historial en una linea amb un sol commit
 ```bash
 git log --online
 ```
