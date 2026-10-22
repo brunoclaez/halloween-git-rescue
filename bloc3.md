@@ -1,0 +1,1 @@
+Acció 3.11: Enregistrem l'estat defectuós a l'historial
