@@ -11,3 +11,4 @@ Captura 10:
 ![alt text](image9.png)
 Captura 11: fem un commit
 ![alt text](image10.png)
+Acció 3.9: Tornem a la branca principal (main)
