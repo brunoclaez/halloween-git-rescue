@@ -10,4 +10,10 @@ git diff HEAD~1 HEAD
 ```
 Captura 19:
 ![alt text](img/image-19.png)
-Acció 3.13:
+Acció 3.13:fem un git reset per purificar l'historial (primer hem de guardat tots els canvis anteriors per no perdre'ls)
+```bash
+git reste --hard HEAD~1
+```
+Captura 20:
+![alt text](img/image-20.png)
+Acció 3.14:
